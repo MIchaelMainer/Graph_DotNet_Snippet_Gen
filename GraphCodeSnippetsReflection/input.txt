@@ -1,0 +1,4 @@
+﻿GET,/me/events
+GET,/me/messages
+GET,me/drive
+POST,/users
